@@ -13,7 +13,7 @@ html {
 
 .main-div {
   min-height: 100vh;
-  background: #060822;
+  background: #7209b7;
   display: flex;
   justify-content: center;
   /* align-items: center; */
@@ -116,7 +116,8 @@ input:focus {
   margin-left: 1rem;
   min-width: 40rem;
   word-break: break-word;
-  background: rgb(85, 41, 220);
+  background: #8338ec;
+  /* 9d4edd */
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -124,7 +125,7 @@ input:focus {
 
 .eachItem:hover {
   background: rgb(249, 249, 252);
-  color: rgb(85, 41, 220);
+  color: #480ca8;
 }
 
 .showItems .eachItem h3 {
@@ -202,7 +203,7 @@ input:focus {
 }
 
 .effect04:hover {
-  background-color: rgb(85, 41, 220);
+  background-color: #571089;
 }
 
 .effect04:hover span {

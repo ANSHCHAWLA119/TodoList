@@ -1,7 +1,8 @@
 import React, { useState } from 'react'
 // import todo from "../Images/todo.png";
 // import todo1 from "../Images/todo1.jpg";
-import todo from "../Images/todo.png";
+// import todo from "../Images/todo.png";
+import todo1 from "../Images/t2.png";
 // import "../App.css"
 const Todo = () => {
   const [inputData,setInputData] = useState("");
@@ -53,7 +54,7 @@ const Todo = () => {
       <div className="main-div">
         <div className="child-div">
             <figure>
-                <img src={todo} alt="todologo" />
+                <img src={todo1} alt="todologo" />
                 <figcaption>Add Your List Here ✌</figcaption>
             </figure>
 
